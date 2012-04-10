@@ -59,24 +59,7 @@ class SimpleCrawler {
       
       (status, doc)
   }
-
-
-  private def size(responsesByStatus: Map[Int, Map[String, Long]]) = {
-
-    //TODO: FIXME: get rid of mutating var
-    var sum = 0
-    responsesByStatus.foreach(sum + _._2.size)
-    sum
-
-    /*
-    responsesByStatus.reduceLeft((key:Int, value:Map[String, Long]) => sum + value.size)
-    responsesByStatus.values.aggregate((size:Int) () )
-    responsesByStatus.values.reduceLeft()
-     pc.aggregate(Set[Int]())(_ += process(_), _ ++ _)
-    //val sum = responsesByStatus.reduceLeft((key:Int, value:Map[String, Long]) => _:Int, + value.size)
-    */
-  }
-
+ 
 }
 
 object SimpleCrawler {
