@@ -7,6 +7,23 @@
 :source-roots("./src")
 :target "./target"
 
+:compile-jars(
+ "~/.ivy2"
+ "/Users/rtritsch/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.1.3.jar"
+)
+:runtime-jars(
+  "~/.ivy2"
+  "/Users/rtritsch/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.1.3.jar"
+)
+;; :compile-deps(
+;;   "~/.ivy2"
+;;   "/Users/rtritsch/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.1.3.jar"
+;; )
+;; :runtime-deps(
+;;   "~/.ivy2"
+;;   "/Users/rtritsch/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.1.3.jar"
+;; )
+
 :use-sbt t
 :sbt-compile-on-save t
 
