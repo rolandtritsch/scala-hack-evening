@@ -1,0 +1,415 @@
+> test-only SimpleCrawlerTest -- -n online
+[info] Compiling 1 Scala source to /Users/alan/Code/scala/scala-dub/Scala-Hack-Evening/alanl/Crawler/target/scala-2.9.1/classes...
+status=200
+Crawling...
+ url=http://www.gilt.com
+ status=200 time=914470000 links=107 count=1
+
+status=200
+ url=http://www.gilt.com/sale/women
+ status=200 time=427043000 links=203 count=2
+
+status=200
+ url=http://www.gilt.com/sale/men
+ status=200 time=202111000 links=175 count=3
+
+status=200
+ url=http://www.gilt.com/sale/children
+ status=200 time=194300000 links=139 count=4
+
+status=200
+ url=http://www.gilt.com/sale/home
+ status=200 time=477380000 links=210 count=5
+
+status=200
+ url=http://www.gilttaste.com/specials
+ status=200 time=929642000 links=159 count=6
+
+status=200
+ url=http://www.giltcity.com
+ status=200 time=967085000 links=66 count=7
+
+status=200
+ url=http://www.giltcity.com/atlanta
+ status=200 time=303385000 links=124 count=8
+
+status=200
+ url=http://www.jetsetter.com
+ status=200 time=540972000 links=134 count=9
+
+status=200
+ url=http://www.parkandbond.com
+ status=200 time=651328000 links=223 count=10
+
+status=200
+ url=http://www.parkandbond.com/support
+ status=200 time=258759000 links=151 count=11
+
+status=200
+ url=http://www.parkandbond.com/account
+ status=200 time=860754000 links=155 count=12
+
+status=200
+ url=http://www.parkandbond.com/account/order
+ status=200 time=373134000 links=155 count=13
+
+status=200
+ url=http://www.parkandbond.com/account/return
+ status=200 time=277252000 links=155 count=14
+
+status=200
+ url=http://www.parkandbond.com/wl
+ status=200 time=299537000 links=155 count=15
+
+status=200
+ url=http://www.parkandbond.com/account/credits
+ status=200 time=377834000 links=155 count=16
+
+status=200
+ url=http://www.parkandbond.com/account/update
+ status=200 time=376319000 links=155 count=17
+
+status=200
+ url=http://www.parkandbond.com/session/logout
+ status=200 time=636448000 links=223 count=18
+
+status=200
+ url=http://www.parkandbond.com/?ifs=done#
+ status=200 time=128929000 links=223 count=19
+
+status=200
+ url=http://www.parkandbond.com/checkout
+ status=200 time=414688000 links=155 count=20
+
+status=200
+ url=http://www.parkandbond.com/login?return_url=%2Fcheckout#
+ status=200 time=120583000 links=155 count=21
+
+status=200
+ url=http://www.parkandbond.com/
+ status=200 time=165019000 links=223 count=22
+
+status=200
+ url=http://www.parkandbond.com/#
+ status=200 time=123615000 links=223 count=23
+
+status=200
+ url=http://www.parkandbond.com/support/global
+ status=200 time=157751000 links=44 count=24
+
+status=200
+ url=http://www.parkandbond.com/sale
+ status=200 time=181141000 links=323 count=25
+
+status=200
+ url=http://www.parkandbond.com/sale#
+ status=200 time=199739000 links=323 count=26
+
+status=200
+ url=http://www.parkandbond.com/new-arrivals
+ status=200 time=286365000 links=322 count=27
+
+status=200
+ url=http://www.parkandbond.com/new-arrivals#
+ status=200 time=717691000 links=322 count=28
+
+status=200
+ url=http://www.parkandbond.com/clothing
+ status=200 time=933782000 links=365 count=29
+
+status=200
+ url=http://www.parkandbond.com/clothing#
+ status=200 time=265377000 links=365 count=30
+
+status=200
+ url=http://www.parkandbond.com/clothing/polos-henleys
+ status=200 time=346405000 links=304 count=31
+
+status=200
+ url=http://www.parkandbond.com/clothing/polos-henleys#
+ status=200 time=127036000 links=304 count=32
+
+status=200
+ url=http://www.parkandbond.com/clothing/tees-tshirts-tanks
+ status=200 time=214290000 links=301 count=33
+
+status=200
+ url=http://www.parkandbond.com/clothing/tees-tshirts-tanks#
+ status=200 time=125865000 links=301 count=34
+
+status=200
+ url=http://www.parkandbond.com/clothing/sport-dress-shirts
+ status=200 time=452986000 links=328 count=35
+
+status=200
+ url=http://www.parkandbond.com/clothing/sport-dress-shirts#
+ status=200 time=125868000 links=328 count=36
+
+status=200
+ url=http://www.parkandbond.com/clothing/suits-sportcoats
+ status=200 time=210499000 links=302 count=37
+
+status=200
+ url=http://www.parkandbond.com/clothing/suits-sportcoats#
+ status=200 time=125568000 links=302 count=38
+
+status=200
+ url=http://www.parkandbond.com/clothing/sweaters-hoodies
+ status=200 time=248597000 links=321 count=39
+
+status=200
+ url=http://www.parkandbond.com/clothing/sweaters-hoodies#
+ status=200 time=125400000 links=321 count=40
+
+status=200
+ url=http://www.parkandbond.com/clothing/shorts-swimwear
+ status=200 time=269981000 links=300 count=41
+
+status=200
+ url=http://www.parkandbond.com/clothing/shorts-swimwear#
+ status=200 time=129228000 links=300 count=42
+
+status=200
+ url=http://www.parkandbond.com/clothing/denim
+ status=200 time=218132000 links=285 count=43
+
+status=200
+ url=http://www.parkandbond.com/clothing/denim#
+ status=200 time=138140000 links=285 count=44
+
+status=200
+ url=http://www.parkandbond.com/clothing/pants
+ status=200 time=230045000 links=321 count=45
+
+status=200
+ url=http://www.parkandbond.com/clothing/pants#
+ status=200 time=242237000 links=321 count=46
+
+status=200
+ url=http://www.parkandbond.com/clothing/outerwear
+ status=200 time=249470000 links=324 count=47
+
+status=200
+ url=http://www.parkandbond.com/clothing/outerwear#
+ status=200 time=145334000 links=324 count=48
+
+status=200
+ url=http://www.parkandbond.com/clothing/socks-underwear-sleepwear
+ status=200 time=253042000 links=269 count=49
+
+status=200
+ url=http://www.parkandbond.com/clothing/socks-underwear-sleepwear#
+ status=200 time=121325000 links=269 count=50
+
+status=200
+ url=http://www.parkandbond.com/clothing/activewear
+ status=200 time=185466000 links=252 count=51
+
+status=200
+ url=http://www.parkandbond.com/clothing/activewear#
+ status=200 time=133579000 links=252 count=52
+
+status=200
+ url=http://www.parkandbond.com/accessories
+ status=200 time=526343000 links=344 count=53
+
+status=200
+ url=http://www.parkandbond.com/accessories#
+ status=200 time=234910000 links=344 count=54
+
+status=200
+ url=http://www.parkandbond.com/accessories/watches
+ status=200 time=200110000 links=248 count=55
+
+status=200
+ url=http://www.parkandbond.com/accessories/watches#
+ status=200 time=127859000 links=248 count=56
+
+status=200
+ url=http://www.parkandbond.com/accessories/jewelry-cufflinks
+ status=200 time=205277000 links=271 count=57
+
+status=200
+ url=http://www.parkandbond.com/accessories/jewelry-cufflinks#
+ status=200 time=142862000 links=271 count=58
+
+status=200
+ url=http://www.parkandbond.com/accessories/ties-furnishings
+ status=200 time=239789000 links=283 count=59
+
+status=200
+ url=http://www.parkandbond.com/accessories/ties-furnishings#
+ status=200 time=120687000 links=283 count=60
+
+status=200
+ url=http://www.parkandbond.com/accessories/hats-gloves-scarves
+ status=200 time=193410000 links=278 count=61
+
+status=200
+ url=http://www.parkandbond.com/accessories/hats-gloves-scarves#
+ status=200 time=125431000 links=278 count=62
+
+status=200
+ url=http://www.parkandbond.com/accessories/bags-luggage
+ status=200 time=222149000 links=276 count=63
+
+status=200
+ url=http://www.parkandbond.com/accessories/bags-luggage#
+ status=200 time=208876000 links=276 count=64
+
+status=200
+ url=http://www.parkandbond.com/accessories/wallets-small-leather-goods
+ status=200 time=189163000 links=265 count=65
+
+status=200
+ url=http://www.parkandbond.com/accessories/wallets-small-leather-goods#
+ status=200 time=117171000 links=265 count=66
+
+status=200
+ url=http://www.parkandbond.com/accessories/belts
+ status=200 time=193404000 links=268 count=67
+
+status=200
+ url=http://www.parkandbond.com/accessories/belts#
+ status=200 time=135215000 links=268 count=68
+
+status=200
+ url=http://www.parkandbond.com/accessories/sunglasses
+ status=200 time=190414000 links=259 count=69
+
+status=200
+ url=http://www.parkandbond.com/accessories/sunglasses#
+ status=200 time=190499000 links=259 count=70
+
+status=200
+ url=http://www.parkandbond.com/accessories/gear-gadgets
+ status=200 time=180209000 links=235 count=71
+
+status=200
+ url=http://www.parkandbond.com/accessories/gear-gadgets#
+ status=200 time=124379000 links=235 count=72
+
+status=200
+ url=http://www.parkandbond.com/accessories/fragrance-grooming
+ status=200 time=201481000 links=249 count=73
+
+status=200
+ url=http://www.parkandbond.com/accessories/fragrance-grooming#
+ status=200 time=125839000 links=249 count=74
+
+status=200
+ url=http://www.parkandbond.com/footwear
+ status=200 time=298597000 links=307 count=75
+
+status=200
+ url=http://www.parkandbond.com/footwear#
+ status=200 time=123429000 links=307 count=76
+
+status=200
+ url=http://www.parkandbond.com/footwear/boots
+ status=200 time=199662000 links=272 count=77
+
+status=200
+ url=http://www.parkandbond.com/footwear/boots#
+ status=200 time=136867000 links=272 count=78
+
+status=200
+ url=http://www.parkandbond.com/footwear/sneakers
+ status=200 time=211794000 links=264 count=79
+
+status=200
+ url=http://www.parkandbond.com/footwear/sneakers#
+ status=200 time=126038000 links=264 count=80
+
+status=200
+ url=http://www.parkandbond.com/footwear/lace-ups
+ status=200 time=208960000 links=267 count=81
+
+status=200
+ url=http://www.parkandbond.com/footwear/lace-ups#
+ status=200 time=133961000 links=267 count=82
+
+status=200
+ url=http://www.parkandbond.com/footwear/boat-shoes
+ status=200 time=195280000 links=255 count=83
+
+status=200
+ url=http://www.parkandbond.com/footwear/boat-shoes#
+ status=200 time=121547000 links=255 count=84
+
+status=200
+ url=http://www.parkandbond.com/footwear/loafers-drivers
+ status=200 time=206008000 links=263 count=85
+
+status=200
+ url=http://www.parkandbond.com/footwear/loafers-drivers#
+ status=200 time=123418000 links=263 count=86
+
+status=200
+ url=http://www.parkandbond.com/footwear/monkstrap
+ status=200 time=166572000 links=209 count=87
+
+status=200
+ url=http://www.parkandbond.com/footwear/monkstrap#
+ status=200 time=142288000 links=209 count=88
+
+status=200
+ url=http://www.parkandbond.com/footwear/formal-shoes
+ status=200 time=167188000 links=182 count=89
+
+status=200
+ url=http://www.parkandbond.com/footwear/formal-shoes#
+ status=200 time=121856000 links=182 count=90
+
+status=200
+ url=http://www.parkandbond.com/footwear/sandals-slip-ons
+ status=200 time=173195000 links=228 count=91
+
+status=200
+ url=http://www.parkandbond.com/footwear/sandals-slip-ons#
+ status=200 time=122449000 links=228 count=92
+
+status=200
+ url=http://www.parkandbond.com/footwear/slippers
+ status=200 time=169119000 links=171 count=93
+
+status=200
+ url=http://www.parkandbond.com/footwear/slippers#
+ status=200 time=151927000 links=171 count=94
+
+status=200
+ url=http://www.parkandbond.com/footwear/footwear-socks
+ status=200 time=212126000 links=256 count=95
+
+status=200
+ url=http://www.parkandbond.com/footwear/footwear-socks#
+ status=200 time=118419000 links=256 count=96
+
+status=200
+ url=http://www.parkandbond.com/designers
+ status=200 time=153406000 links=323 count=97
+
+status=200
+ url=http://www.parkandbond.com/designers#
+ status=200 time=122977000 links=323 count=98
+
+status=200
+ url=http://www.parkandbond.com/gifts
+ status=200 time=475124000 links=352 count=99
+
+status=200
+ url=http://www.parkandbond.com/gifts#
+ status=200 time=525896000 links=352 count=100
+
+Done.
+status=200
+ url=http://www.parkandbond.com/gifts?gift_pnb=idea_colorful_picks
+ status=200 time=321109000 links=352 count=101
+
+>>>>>>>>>> FOUND <<<<<<<<<<<
+Map(200 -> Map(http://www.parkandbond.com/new-arrivals# -> 717691000, http://www.parkandbond.com/new-arrivals -> 286365000, http://www.parkandbond.com/clothing/socks-underwear-sleepwear -> 253042000, http://www.parkandbond.com/account/order -> 373134000, http://www.parkandbond.com/gifts -> 475124000, http://www.parkandbond.com/footwear/sandals-slip-ons# -> 122449000, http://www.parkandbond.com/clothing/tees-tshirts-tanks# -> 125865000, http://www.parkandbond.com/footwear/footwear-socks# -> 118419000, http://www.parkandbond.com/footwear/lace-ups# -> 133961000, http://www.parkandbond.com/login?return_url=%2Fcheckout# -> 120583000, http://www.parkandbond.com/account/credits -> 377834000, http://www.parkandbond.com/clothing/tees-tshirts-tanks -> 214290000, http://www.parkandbond.com/clothing/shorts-swimwear# -> 129228000, http://www.parkandbond.com/clothing/activewear# -> 133579000, http://www.jetsetter.com -> 540972000, http://www.parkandbond.com/designers# -> 122977000, http://www.parkandbond.com/accessories/wallets-small-leather-goods -> 189163000, http://www.parkandbond.com/support/global -> 157751000, http://www.parkandbond.com -> 651328000, http://www.parkandbond.com/accessories/wallets-small-leather-goods# -> 117171000, http://www.parkandbond.com/footwear/sneakers -> 211794000, http://www.parkandbond.com/accessories/sunglasses -> 190414000, http://www.parkandbond.com/designers -> 153406000, http://www.parkandbond.com/footwear/slippers# -> 151927000, http://www.parkandbond.com/accessories# -> 234910000, http://www.parkandbond.com/clothing/sweaters-hoodies# -> 125400000, http://www.parkandbond.com/clothing/socks-underwear-sleepwear# -> 121325000, http://www.parkandbond.com/clothing/polos-henleys -> 346405000, http://www.parkandbond.com/accessories -> 526343000, http://www.parkandbond.com/accessories/jewelry-cufflinks# -> 142862000, http://www.parkandbond.com/accessories/gear-gadgets -> 180209000, http://www.parkandbond.com/gifts# -> 525896000, http://www.parkandbond.com/footwear/slippers -> 169119000, http://www.parkandbond.com/session/logout -> 636448000, http://www.parkandbond.com/accessories/fragrance-grooming -> 201481000, http://www.parkandbond.com/accessories/bags-luggage# -> 208876000, http://www.parkandbond.com/clothing# -> 265377000, http://www.giltcity.com/atlanta -> 303385000, http://www.parkandbond.com/accessories/bags-luggage -> 222149000, http://www.parkandbond.com/footwear/boots -> 199662000, http://www.parkandbond.com/sale# -> 199739000, http://www.parkandbond.com/account -> 860754000, http://www.parkandbond.com/footwear/boots# -> 136867000, http://www.gilttaste.com/specials -> 929642000, http://www.parkandbond.com/gifts?gift_pnb=idea_colorful_picks -> 321109000, http://www.parkandbond.com/footwear/loafers-drivers# -> 123418000, http://www.gilt.com/sale/children -> 194300000, http://www.parkandbond.com/footwear# -> 123429000, http://www.parkandbond.com/clothing/activewear -> 185466000, http://www.parkandbond.com/footwear/formal-shoes# -> 121856000, http://www.gilt.com -> 914470000, http://www.parkandbond.com/footwear/monkstrap -> 166572000, http://www.parkandbond.com/accessories/belts -> 193404000, http://www.parkandbond.com/accessories/ties-furnishings# -> 120687000, http://www.parkandbond.com/clothing -> 933782000, http://www.gilt.com/sale/home -> 477380000, http://www.parkandbond.com/clothing/shorts-swimwear -> 269981000, http://www.parkandbond.com/ -> 165019000, http://www.parkandbond.com/account/update -> 376319000, http://www.parkandbond.com/footwear/lace-ups -> 208960000, http://www.parkandbond.com/footwear/monkstrap# -> 142288000, http://www.parkandbond.com/accessories/hats-gloves-scarves -> 193410000, http://www.parkandbond.com/account/return -> 277252000, http://www.parkandbond.com/accessories/watches# -> 127859000, http://www.parkandbond.com/clothing/pants -> 230045000, http://www.parkandbond.com/accessories/jewelry-cufflinks -> 205277000, http://www.parkandbond.com/support -> 258759000, http://www.parkandbond.com/clothing/sweaters-hoodies -> 248597000, http://www.parkandbond.com/checkout -> 414688000, http://www.parkandbond.com/clothing/pants# -> 242237000, http://www.parkandbond.com/footwear -> 298597000, http://www.parkandbond.com/clothing/suits-sportcoats# -> 125568000, http://www.parkandbond.com/clothing/sport-dress-shirts -> 452986000, http://www.parkandbond.com/accessories/sunglasses# -> 190499000, http://www.parkandbond.com/accessories/belts# -> 135215000, http://www.giltcity.com -> 967085000, http://www.parkandbond.com/clothing/outerwear# -> 145334000, http://www.parkandbond.com/clothing/sport-dress-shirts# -> 125868000, http://www.parkandbond.com/accessories/watches -> 200110000, http://www.parkandbond.com/clothing/suits-sportcoats -> 210499000, http://www.parkandbond.com/accessories/gear-gadgets# -> 124379000, http://www.gilt.com/sale/women -> 427043000, http://www.parkandbond.com/footwear/boat-shoes# -> 121547000, http://www.parkandbond.com/sale -> 181141000, http://www.gilt.com/sale/men -> 202111000, http://www.parkandbond.com/clothing/polos-henleys# -> 127036000, http://www.parkandbond.com/footwear/formal-shoes -> 167188000, http://www.parkandbond.com/# -> 123615000, http://www.parkandbond.com/accessories/ties-furnishings -> 239789000, http://www.parkandbond.com/footwear/sneakers# -> 126038000, http://www.parkandbond.com/footwear/footwear-socks -> 212126000, http://www.parkandbond.com/wl -> 299537000, http://www.parkandbond.com/footwear/boat-shoes -> 195280000, http://www.parkandbond.com/accessories/hats-gloves-scarves# -> 125431000, http://www.parkandbond.com/clothing/denim -> 218132000, http://www.parkandbond.com/clothing/denim# -> 138140000, http://www.parkandbond.com/?ifs=done# -> 128929000, http://www.parkandbond.com/clothing/outerwear -> 249470000, http://www.parkandbond.com/footwear/loafers-drivers -> 206008000, http://www.parkandbond.com/footwear/sandals-slip-ons -> 173195000, http://www.parkandbond.com/accessories/fragrance-grooming# -> 125839000))
+>>>>>>>>>> 1 responses <<<<<<<<<<<
+[info] SimpleCrawlerTest:
+[info] - test crawl of gilt.com
+[info] Passed: : Total 1, Failed 0, Errors 0, Passed 1, Skipped 0
+[success] Total time: 29 s, completed Apr 5, 2012 12:04:31 AM
